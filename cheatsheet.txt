@@ -1,0 +1,9 @@
+SCADA
+PLC
+HMI
+80.http.get.title: "example"
+Home Control
+Control Panel
+remote-access
+database
+file-sharing
