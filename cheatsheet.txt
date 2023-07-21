@@ -7,3 +7,4 @@ Control Panel
 remote-access
 database
 file-sharing
+Control Endpoint
