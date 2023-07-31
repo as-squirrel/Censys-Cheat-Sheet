@@ -8,3 +8,6 @@ remote-access
 database
 file-sharing
 Control Endpoint
+Camera Control
+Media share
+Mediapipe
