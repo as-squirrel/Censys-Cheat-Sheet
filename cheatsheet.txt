@@ -11,3 +11,6 @@ Control Endpoint
 Camera Control
 Media share
 Mediapipe
+Dashboard
+Power Control 
+Power Dashboard 
