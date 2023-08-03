@@ -14,3 +14,4 @@ Mediapipe
 Dashboard
 Power Control 
 Power Dashboard 
+Siemens Control Panel
